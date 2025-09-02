@@ -1,0 +1,13 @@
+"Phrases"
+{
+    "TAG"
+    {
+        "en"            "<{green}Max Distance{default}> "
+    }
+
+    "MAP_DISTANCE"
+    {
+        "#format"       "{1:d}"
+        "en"            "Map distance {olive}{1}"
+    }
+}

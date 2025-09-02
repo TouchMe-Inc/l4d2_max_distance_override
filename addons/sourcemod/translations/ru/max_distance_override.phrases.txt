@@ -1,0 +1,13 @@
+"Phrases"
+{
+    "TAG"
+    {
+        "ru"            "<{green}Max Distance{default}> "
+    }
+
+    "MAP_DISTANCE"
+    {
+        "#format"       "{1:d}"
+        "ru"            "Дистанция карты {olive}{1}"
+    }
+}
